@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "folder_exclude_patterns": ["node_modules", ".git", "_site"],
+      "file_exclude_patterns": ["*.log", "*.tmp"]
+    }
+  ],
+  "settings": {
+  }
+}
